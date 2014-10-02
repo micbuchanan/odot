@@ -16,6 +16,7 @@ end
 
 group :development, :test do 
 	gem 'rspec-rails', '~> 2.0'
+	gem 'rspec-activemodel-mocks'
 end
 
 group :test do 
