@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+ruby '2.1.1'
+#ruby-gemset=2.1.1@rails401
 
 gem 'rails', '4.0.1'
 gem 'sqlite3'
