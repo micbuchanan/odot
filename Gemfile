@@ -3,6 +3,7 @@ ruby '2.1.1'
 #ruby-gemset=2.1.1@rails401
 
 gem 'rails', '4.0.1'
+gem 'bcrypt', '~> 3.1.7'
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.0'
 gem 'uglifier', '>= 1.3.0'
